@@ -3,7 +3,7 @@
 * insertion_sort_list - insertion sorting algorithm
 * @list: linked list to sort
 */
-void insertion_sort_list(listint_t **list):
+void insertion_sort_list(listint_t **list)
 {
 	listint_t *tmp;
 	int n;
